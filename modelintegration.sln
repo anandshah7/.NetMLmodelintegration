@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "modelintegration", "modelintegration\modelintegration.csproj", "{A95C91D5-A5C7-4DCB-B2B0-86EE928CC95B}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "MachinelearningTest", "MachinelearningTest\MachinelearningTest.fsproj", "{43B65BBF-7883-455B-992E-33EDEBEF2987}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A95C91D5-A5C7-4DCB-B2B0-86EE928CC95B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A95C91D5-A5C7-4DCB-B2B0-86EE928CC95B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A95C91D5-A5C7-4DCB-B2B0-86EE928CC95B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A95C91D5-A5C7-4DCB-B2B0-86EE928CC95B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43B65BBF-7883-455B-992E-33EDEBEF2987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43B65BBF-7883-455B-992E-33EDEBEF2987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43B65BBF-7883-455B-992E-33EDEBEF2987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43B65BBF-7883-455B-992E-33EDEBEF2987}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B1F63E8-B524-443E-BDCC-F48783346D6E}
+	EndGlobalSection
+EndGlobal
